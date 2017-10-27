@@ -3,16 +3,16 @@ define( function ( require ) {
 	"use strict";
 
 	return {
-		app_slug : 'guia-cidade',
-		wp_ws_url : 'http://suamoradia.israelwilson.com.br/app/wp-appkit-api/guia-cidade',
-		wp_url : 'http://suamoradia.israelwilson.com.br/app',
-		theme : 'q-android',
+		app_slug : 'paladar-leve',
+		wp_ws_url : 'http://paladarleve.israelwilson.com.br/wp-appkit-api/paladar-leve',
+		wp_url : 'http://paladarleve.israelwilson.com.br',
+		theme : 'q-ios',
 		version : '0.1',
-		app_title : 'GC Top BAR',
-		app_platform : 'android',
-		gmt_offset : -3,
+		app_title : 'Paladar Leve',
+		app_platform : 'ios',
+		gmt_offset : -2,
 		debug_mode : 'off',
-		auth_key : '1l%M+9[Xo*sMmhbfU2#;f@%Az+Z T/Q[1/ADwP^An07pU`OA1CLR0jZ3gtAHfFaL',
+		auth_key : '`(JGbWKroVvUYX5Ejz^y*X[)*Anh4DmRGh:eYL_qMA=bGf5P*!|TwN1t6]=[p+Of',
 		options : {"refresh_interval":0},
 		theme_settings : [],
 		addons : []
